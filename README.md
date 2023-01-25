@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @muftauakindele
-- 👀 I’m interested in Software Engineering, Front-end, Back-end, and Fullstack Development
 - 🌱 I’m currently learning React.JS
